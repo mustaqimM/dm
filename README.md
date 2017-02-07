@@ -1,4 +1,4 @@
-A rEFInd theme:
+dm.
 ==============================
 A dark theme for [rEFInd][refurl] based on [Dream Machine][theme-author].
 ----
@@ -33,7 +33,7 @@ Attributions
 <h5 align="center">
 	<br>
 	<img width="150" src="https://i.imgur.com/hVNigO6.png" alt="awesome">
-	<FIGCAPTION><center><a href="bitcoin:1JP6sFRUgrnAjci8ycTdGaVKGB4Y71nQyz" class="ng-binding">bitcoin:1JP6sFRUgrnAjci8ycTdGaVKGB4Y71nQyz</a></center></FIGCAPTION>
+	<FIGCAPTION><center><a href="bitcoin:1JP6sFRUgrnAjci8ycTdGaVKGB4Y71nQyz">bitcoin:1JP6sFRUgrnAjci8ycTdGaVKGB4Y71nQyz</a></center></FIGCAPTION>
 	<br>
 	<br>
 	<br>
