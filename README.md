@@ -31,12 +31,8 @@ Attributions
 ----
 
 <h5 align="center">
-	<br>
 	<img width="150" src="https://i.imgur.com/hVNigO6.png" alt="awesome">
 	<FIGCAPTION><center><a href="bitcoin:1JP6sFRUgrnAjci8ycTdGaVKGB4Y71nQyz">bitcoin:1JP6sFRUgrnAjci8ycTdGaVKGB4Y71nQyz</a></center></FIGCAPTION>
-	<br>
-	<br>
-	<br>
 </h5>
 [icons]: http://sworiginal.deviantart.com/art/Lightness-for-burg-181461810
 [icons2]: https://github.com/lukechilds/refind-ambience
