@@ -1,7 +1,6 @@
 A rEFInd theme:
 ==============================
 A dark theme for [rEFInd][refurl] based on [Dream Machine][theme-author].
-
 ----
 **Screenshot**
 ![M](https://github.com/mustaqimM/dm/blob/master/screenshot.png)
