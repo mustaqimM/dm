@@ -10,9 +10,9 @@ Installation
 ```
 $root: cp -r ~/dm /boot/efi/EFI/refind/themes
 $root: nvim + /boot/efi/EFI/refind/refind.conf # Opens nvim and puts the cursor on the last line
-$root: #Append `include themes/dm/theme.conf` to `refind.conf`
+$root: # Append "include themes/dm/theme.conf" to `refind.conf`
 ```
-__NOTE:__
+__NOTES:__
 
 Obviously [rEFInd][refurl] is needed to use this. Install with your package manager `refind-efi`. You many need to run `refind-install` afterwards.
 
@@ -32,7 +32,7 @@ Attributions
 
 <h5 align="center">
 	<br>
-	<img width="150" src="https://i.imgur.com/enQVK5f.png" alt="bitcoin">
+	<img width="150" src="https://i.imgur.com/dhvBIUm.png" alt="bitcoin">
 	<br>
 	<FIGCAPTION><center><a href="bitcoin:1JP6sFRUgrnAjci8ycTdGaVKGB4Y71nQyz">bitcoin:1JP6sFRUgrnAjci8ycTdGaVKGB4Y71nQyz</a></center></FIGCAPTION>
 	<br>
