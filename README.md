@@ -5,8 +5,6 @@ A dark theme for [rEFInd][refurl] based on [Dream Machine][theme-author].
 ----
 **Screenshot**
 ![M](https://github.com/mustaqimM/dm/blob/master/screenshot.png)
-![Icons](https://i.imgur.com/J6A1OLj.png  "Icons")
-
 
 Installation
 ----
