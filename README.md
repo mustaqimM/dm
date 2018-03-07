@@ -29,12 +29,11 @@ Attributions
 **Reddit:** [rEFInd](http://www.rodsbooks.com/refind/)
 
 ----
-                                              bitcoin:1GTiYbxCbZjALo4yYeFB9py4jtXZVdtop7
 <h5 align="center">
 	<br>
 	<img width="150" src="https://i.imgur.com/DOIKi6h.png" alt="bitcoin">
 	<br>
-	<FIGCAPTION><center><a href="bitcoin:1GTiYbxCbZjALo4yYeFB9py4jtXZVdtop7</a></center></FIGCAPTION>
+	<FIGCAPTION><center><a href="bitcoin:1GTiYbxCbZjALo4yYeFB9py4jtXZVdtop7">bitcoin:1GTiYbxCbZjALo4yYeFB9py4jtXZVdtop7</a></center></FIGCAPTION>
 	<br>
 	<br>
 </h5>
