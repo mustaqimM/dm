@@ -32,9 +32,9 @@ Attributions
 
 <h5 align="center">
 	<br>
-	<img width="150" src="https://i.imgur.com/dhvBIUm.png" alt="bitcoin">
+	<img width="150" src="https://i.imgur.com/DOIKi6h.png" alt="bitcoin">
 	<br>
-	<FIGCAPTION><center><a href="bitcoin:1JP6sFRUgrnAjci8ycTdGaVKGB4Y71nQyz">bitcoin:1JP6sFRUgrnAjci8ycTdGaVKGB4Y71nQyz</a></center></FIGCAPTION>
+	<FIGCAPTION><center><a href="bitcoin:1GTiYbxCbZjALo4yYeFB9py4jtXZVdtop7</a></center></FIGCAPTION>
 	<br>
 	<br>
 </h5>
